@@ -1,7 +1,9 @@
 #parent {
+  height: 700px;
   display: flex;
   flex-direction: row; /* row-reverse, column, column-reverse */
   justify-content: flex-start; /* flex-end, center, space-between space-around */
+  align-items: flex-start; /* flex-end, center, stretch */
 }
 
 .children {
