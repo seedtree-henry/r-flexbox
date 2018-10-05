@@ -1,11 +1,12 @@
 #parent {
   display: flex;
   flex-direction: row; /* row-reverse, column, column-reverse */
+  justify-content: flex-start; /* flex-end, center, space-between space-around */
 }
 
 .children {
   height: 200px;
-  width: 350px;
+  width: 150px;
 }
 
 #green {
