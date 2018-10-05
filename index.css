@@ -1,0 +1,23 @@
+#parent {
+}
+
+.children {
+  height: 200px;
+  width: 350px;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#red {
+  background-color: red;
+}
+
+#yellow {
+  background-color: yellow;
+}
